@@ -1,0 +1,2 @@
+# crypto_stratey_factory
+这个项目是一个能自动生成策略并实盘交易的软件
